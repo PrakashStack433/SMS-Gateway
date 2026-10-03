@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.SmsGateway" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#1C1B1F</item>
+    </style>
+</resources>
